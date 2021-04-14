@@ -1,4 +1,4 @@
-FROM python:3.7.10
+FROM zyj98/dockerfile:version-1.3.0
 
 WORKDIR /
 
