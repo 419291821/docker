@@ -5,3 +5,5 @@ configobj
 matplotlib
 sklearn
 scipy
+setuptools
+pillow
