@@ -1,9 +1,9 @@
-numpy
-torch
-torchvision
-configobj
+torch >= 1.5.1
+imageio
 matplotlib
-sklearn
 scipy
-setuptools
-pillow
+argparse
+tensorboardX
+blessings
+progressbar2
+path
