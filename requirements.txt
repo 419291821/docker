@@ -1,4 +1,6 @@
-torch >= 1.5.1
+numpy
+setuptools
+pillow
 imageio
 matplotlib
 scipy
