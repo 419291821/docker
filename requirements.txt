@@ -7,3 +7,6 @@ tensorboardX
 blessings
 progressbar2
 path
+torchvision
+scikit-image
+tqdm
