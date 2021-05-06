@@ -2,8 +2,6 @@ numpy
 setuptools
 pillow
 imageio
-matplotlib
-scipy
 argparse
 tensorboardX
 blessings
@@ -12,3 +10,11 @@ path
 torchvision
 scikit-image
 tqdm
+opencv-python
+Cython
+numba
+progress
+matplotlib
+easydict
+scipy
+
