@@ -1,6 +1,5 @@
 opencv-python
-Cython
-numba
+numpy
 progress
 matplotlib
 easydict
