@@ -10,8 +10,7 @@ path
 torchvision
 scikit-image
 tqdm
-opencv-python
-Cython
+cython
 numba
 progress
 matplotlib
