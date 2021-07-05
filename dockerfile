@@ -9,7 +9,7 @@ run apt-get update && apt-get install -y \
 run pip3 install --upgrade pip
 run pip3 install --upgrade cython
 run pip3 install \
-    torch==1.6.0\
+    torch==1.7.0\
     torchvision==0.7.0\
     scipy\
     pillow==6.2.1\
