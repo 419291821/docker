@@ -1,4 +1,4 @@
-from pytorch/pytorch:1.7.0-cuda11.0-cudnn8-runtime
+from nvidia/cuda:11.0-cudnn8-runtime-ubuntu18.04
 
 run apt-get update && apt-get install -y \
     python3\
@@ -9,6 +9,8 @@ run apt-get update && apt-get install -y \
 run pip3 install --upgrade pip
 run pip3 install --upgrade cython
 run pip3 install \
+    torch==1.7.0\
+    torchvision==0.7.0\
     scipy\
     pillow==6.2.1\
     sklearn\
